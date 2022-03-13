@@ -32,7 +32,7 @@ const defaultMenu = {
 ╭─「 %me 」
 │ %ucapan, %name!
 │
-│ *WA REPLAN : wa.me/6285883879713
+│ *WA REPLAN* : wa.me/6285883879713
 │ Tanggal: *%week %weton, %date*
 │ Tanggal Islam: *%dateIslamic*
 │ Waktu: *%time*
